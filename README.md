@@ -1,4 +1,4 @@
-Hi Folks! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" height="35px" /> I'm Rifqi
+Hi Folks! I'm Rifqi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="35px" height="35px" /> 
 
 I am someone who has a strong passion for embracing new challenges. I thoroughly enjoy exploring and acquiring knowledge in the realms of computers, gadgets, and programming. I have a deep interest in Web Development, particularly Front End Development, which is why I chose to pursue a degree in Informatics Engineering.
 
