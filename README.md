@@ -21,6 +21,8 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)&nbsp;
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+  ![Flask](https://img.shields.io/badge/Flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%2361DAFB)&nbsp;
+
 
 ### Machine Learnig
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -48,6 +50,6 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 
 ## 🙋‍♂️ Social
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhrifqis/)&nbsp;
-  [![Instagram](https://img.shields.io/badge/rifqi.setiawan18-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rifqi.setiawan18/)&nbsp;
+  [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rifqi.setiawan18/)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhrifqis100@gmail.com)&nbsp;
 
