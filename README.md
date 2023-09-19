@@ -38,7 +38,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-# Github Statistic
+### Github Statistic
 <p align="left">
 <a href="https://github.com/rifqi142">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifqi142&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -48,6 +48,6 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
 
 ## 🙋‍♂️ Social
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhrifqis/)&nbsp;
-  [![Instagram](https://img.shields.io/badge/reskimulud-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rifqi.setiawan18/)&nbsp;
+  [![Instagram](https://img.shields.io/badge/rifqi.setiawan18-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rifqi.setiawan18/)&nbsp;
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhrifqis100@gmail.com)&nbsp;
 
