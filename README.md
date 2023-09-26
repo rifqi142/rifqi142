@@ -24,7 +24,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ![Flask](https://img.shields.io/badge/Flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%2361DAFB)&nbsp;
 
 
-### Machine Learnig
+### Machine Learning
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23FF6F00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)&nbsp;
 
