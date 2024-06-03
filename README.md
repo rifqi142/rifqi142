@@ -25,6 +25,7 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
   [![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
   ![Flask](https://img.shields.io/badge/Flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%2361DAFB)&nbsp;
+  ![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
 
 ### Machine Learning
@@ -42,6 +43,10 @@ I feel that what my campus teaches is not enough, therefore I continue to seek k
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+
 
 ### Github Statistic
 <p align="left">
